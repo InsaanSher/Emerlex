@@ -1,0 +1,21 @@
+[debug] [2024-05-30T09:05:01.131Z] ----------------------------------------------------------------------
+[debug] [2024-05-30T09:05:01.133Z] Command:       C:\Program Files\nodejs\node.exe C:\Users\65902\AppData\Roaming\npm\node_modules\firebase-tools\lib\bin\firebase.js init
+[debug] [2024-05-30T09:05:01.134Z] CLI Version:   13.10.2
+[debug] [2024-05-30T09:05:01.134Z] Platform:      win32
+[debug] [2024-05-30T09:05:01.134Z] Node Version:  v20.12.2
+[debug] [2024-05-30T09:05:01.134Z] Time:          Thu May 30 2024 14:35:01 GMT+0530 (India Standard Time)
+[debug] [2024-05-30T09:05:01.134Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2024-05-30T09:05:01.140Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2024-05-30T09:05:01.141Z] > authorizing via signed-in user (emerlexhaven@gmail.com)
+[info] 
+     ######## #### ########  ######## ########     ###     ######  ########
+     ##        ##  ##     ## ##       ##     ##  ##   ##  ##       ##
+     ######    ##  ########  ######   ########  #########  ######  ######
+     ##        ##  ##    ##  ##       ##     ## ##     ##       ## ##
+     ##       #### ##     ## ######## ########  ##     ##  ######  ########
+
+You're about to initialize a Firebase project in this directory:
+
+  C:\Users\65902\Desktop\MNE Group\TechieLeaders\Web Development\Web Applications\POS Systems\Emerlex\System\Emerlex\client
+
